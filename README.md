@@ -8,3 +8,4 @@ You Need install all of module to running this project
 5. Mocha Simpel HTML Reporter -> https://www.npmjs.com/package/mocha-simple-html-reporter
 
 If you have problem when running, DM Me!!! 
+Script running -> npm run jalanin (custom script)
